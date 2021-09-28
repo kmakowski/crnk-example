@@ -1,6 +1,5 @@
 # crnk example application
 
-[![Build Status](https://travis-ci.com/kmakowski/crnk-example.svg?branch=master)](https://travis-ci.com/kmakowski/crnk-example)
 [![Gitter](https://img.shields.io/gitter/room/crkn-io/lobby.svg)](https://gitter.im/crnk-io/Lobby)
 [![License](https://img.shields.io/badge/License-Apache%202.0-yellowgreen.svg)](https://github.com/crnk-project/crnk-framework/blob/master/LICENSE.txt)
 
